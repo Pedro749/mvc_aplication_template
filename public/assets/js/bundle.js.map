@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"mBAAAA,MAAM,I","sources":["webpack://aula_node/./frontend/assets/js/main.js"],"sourcesContent":["alert('1');"],"names":["alert"],"sourceRoot":""}
